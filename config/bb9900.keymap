@@ -74,7 +74,7 @@
         upper_layer {
 
             bindings = <
-                 &kp C_BRI_DN                                                                                                   &kp C_BRI_UP
+                 &kp C_PREV                                                                                                     &kp C_NEXT
     &bt BT_SEL 0            &bt BT_SEL 1                                     &td0                           &bt BT_SEL 2                         &bt BT_SEL 3
     &none        &kp UP     &kp KP_EQUAL        &none      &mt LT LBRC       &mt GT RBRC   &none            &none               &kp CARET        &mt PERCENT PIPE
     &kp LEFT     &kp DOWN   &kp RIGHT           &none      &kp BSLH          &none         &none            &none               &none            &kp BSPC
