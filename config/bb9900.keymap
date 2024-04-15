@@ -77,7 +77,7 @@
                  &kp C_PREV                                                                                                     &kp C_NEXT
     &bt BT_SEL 0            &bt BT_SEL 1                                     &td0                           &bt BT_SEL 2                         &bt BT_SEL 3
     &none        &kp UP     &kp KP_EQUAL        &none      &mt LT LBRC       &mt GT RBRC   &none            &none               &kp CARET        &mt PERCENT PIPE
-    &kp LEFT     &kp DOWN   &kp RIGHT           &none      &kp BSLH          &none         &none            &none               &none            &kp BSPC
+    &kp LEFT     &kp DOWN   &kp RIGHT           &none      &kp BSLH          &kp HOME      &kp PG_DN        &kp PG_UP           &kp END             &kp BSPC
     &sk LSHFT    &kp AMPS   &none               &sys_reset &bl BL_DEC        &bl BL_TOG    &bl BL_INC       &ext_power EP_TOG   &bootloader      &kp ENTER
     &sk LCTRL               &kp LALT                                         &hm OUT_TOG SPACE              &tog SYM                             &tog UPPER
             >;
